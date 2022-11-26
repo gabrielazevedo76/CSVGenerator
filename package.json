@@ -1,0 +1,19 @@
+{
+  "name": "csvgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/lodash": "^4.14.190",
+    "@types/node": "^18.11.9",
+    "@types/readline-sync": "^1.4.4",
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
+  },
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
+}
